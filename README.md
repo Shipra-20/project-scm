@@ -1,4 +1,4 @@
 #GitHub Project
 ## Description
-This project demonstrates the use og .gitignore and README files.
+This project demonstrates the use of .gitignore and README files.
 
